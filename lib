@@ -28,7 +28,7 @@ if isfolder("noobware/sound") == false then
 
 end
 
-if isfolder("rektsky/sound/mc") == false then
+if isfolder("noobware/sound/mc") == false then
 
     makefolder("noobware/sound/mc")
 
